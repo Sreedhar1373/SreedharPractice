@@ -1,2 +1,0 @@
-print ("sreedhar")
-print ("sowmya")
